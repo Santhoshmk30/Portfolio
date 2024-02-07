@@ -321,7 +321,7 @@ hr {
 /*-----------------Contact------------------*/
 .contact-left{
     flex-basis: 50%;
-    margin-top: -6%;
+    margin-top: 0%;
 }
 .vl {
     border-left: 6px solid #522fc5b9;
