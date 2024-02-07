@@ -356,6 +356,43 @@ hr {
     color: #da21c1;
     transform: translateY(-5px);
 }
+.btn.btn3{.contact-left{
+    flex-basis: 50%;
+    margin-top: 0%;
+}
+.vl {
+    border-left: 6px solid #522fc5b9;
+    height: 350px;
+    margin-top: 40px;
+}
+.contact-right{
+    flex-basis: 35%;
+    margin-top: 100px;
+}
+.contact-right p{
+    margin-top: 30px;
+}
+.contact-right p i{
+    color: #da21c1;;
+    margin-left: 25px;
+    font-size: 25px;
+}
+.social-icons{
+    margin-top: 30px;
+}
+.social-icons a{
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 5px;
+    margin-left: 25px;
+    color: #da21c1;
+    display: inline-block;
+    transition: transform 0.5s;
+}
+.social-icons a:hover{
+    color: #da21c1;
+    transform: translateY(-5px);
+}
 .btn.btn3{
     display: inline-block;
     background: #da21c1;
