@@ -349,7 +349,7 @@ hr {
 .layer h3{
     font-weight: 500;
     margin-bottom: 20px;
-    font-size: 32px;
+    font-size: 22px;
 }
 .layer p{
     font-size: 20px;
@@ -525,13 +525,13 @@ nav .fa-solid{
         cursor: pointer;
     }
     .header-text{
-        margin-top: 30%;
+        margin-top: 8%;
         font-size: 15px;
         margin-left: 50px;
     }
     .header-text h1{
-        font-size: 45px;
-        margin-top: 25px;
+        font-size: 35px;
+        margin-top: 15px;
         margin-left: -60px;
         margin-right: 45px;
     }
